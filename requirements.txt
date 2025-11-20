@@ -4,3 +4,4 @@ deep-translator
 soundfile
 librosa
 numpy
+gTTS
