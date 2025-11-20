@@ -1,0 +1,6 @@
+streamlit
+datasets
+deep-translator
+soundfile
+librosa
+numpy
